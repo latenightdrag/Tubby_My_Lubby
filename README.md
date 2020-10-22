@@ -1,8 +1,8 @@
-#Tubby_My_Lubby
+# Tubby_My_Lubby
 
 All about my cute & cuddly kitty named Tubby.
 
-#MIT License
+# MIT License
 
 Copyright 2020 Alex Harris
 
